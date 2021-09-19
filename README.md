@@ -6,7 +6,7 @@
 
 
 ## :crystal_ball: :computer:	Live Demo
-- Application Link :- https://wine-quality-predicton.herokuapp.com/
+- Application Link :-https://carpricequicker.herokuapp.com/
 
 ## 🎯 Inference demo
 ![livedemo](https://raw.githubusercontent.com/darknightush/Quiker_Car_Prediction/Master/Live%20demo.png)
